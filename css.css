@@ -1,0 +1,55 @@
+body {
+		background-color: lightblue;
+}
+h1
+{
+   font-family: Cooper Black, Bernard MT Condensed, Impact;
+   font-size: 70pt;
+}
+h2
+{
+   font-family: Century Gothic, "Arial Narrow", sans-serif;
+   font-size: 17pt;
+}
+h1 {
+    color: Black;
+}
+h2 {
+    color: rgb(218, 0, 0);
+} 
+p
+{
+   font-family: Century Gothic, "Arial Narrow", sans-serif;
+   font-size: 12pt;
+}
+.center
+{
+    text-align: Center;
+}
+h3
+{
+   font-family: Century Gothic, "Arial Narrow", sans-serif;
+   font-size: 14pt;
+}
+h4
+{
+   font-family: Century Gothic, "Arial Narrow", sans-serif;
+   font-size: 12pt;
+}
+li
+{
+   font-family: Century Gothic, "Arial Narrow", sans-serif;
+   font-size: 12pt;
+}
+q {
+    quotes: "\0022" "\0022";
+}
+img
+{
+	border-color : white; 
+	border-width : medium;
+	border-style : solid;
+	padding : 1% ;
+	margin : 2% ;
+}
+	</style>
